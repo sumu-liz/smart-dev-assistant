@@ -1,2 +1,11 @@
 __pycache__/ 
 *.pyc 
+# 忽略子目录下的 .env
+SmartDevAssistant-1st/.env
+
+# 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
