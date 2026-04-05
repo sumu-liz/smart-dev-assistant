@@ -5,7 +5,7 @@ SmartDevAssistant-1st/.env
 
 # 虚拟环境
 .venv/
-
+SmartDevAssistant-1st/.env
 # Python 缓存
 __pycache__/
 *.pyc
